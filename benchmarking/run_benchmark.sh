@@ -1,3 +1,4 @@
 #!/bin/bash
 
-#TODO
+./build_shogi_rust.sh
+./build_shogi_go.sh
